@@ -1,4 +1,5 @@
 import csv
+from mi_lista import agregar_a_mi_lista, cargar_mi_lista
 
 def buscar_por_texto(ruta_archivo, palabra_clave):
     resultados = []
